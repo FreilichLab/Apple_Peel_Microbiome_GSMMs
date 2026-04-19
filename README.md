@@ -10,11 +10,13 @@ It contains the raw and curated assets used to model the metabolic interactions 
 
 ### `MAGs/`
 Contains the de-replicated sequences of Metagenome-Assembled Genomes representing the bacterial and fungal members of the apple peel community.
+Data is compressed in .zip format due to size limits.
 
 ### `Models/`
 Contains the highly curated Genome-Scale Metabolic Models (GSMMs) in standard formats (e.g., SBML/JSON).
 * **Bacterial Community:** Models `GSMM_1` through `GSMM_24` and `GSMM_MR` and the curated models `[GSMM_x_]_gapfilled`
 * **Fungal Pathogen:** Curated model for *Penicillium expansum*.
+* Data is compressed in .zip format due to size limits.
 
 ### `Code/`
 Contains an example of the Python scripts utilized for the curation pipeline and simulation:
