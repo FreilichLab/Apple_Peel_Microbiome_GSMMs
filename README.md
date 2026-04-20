@@ -19,7 +19,7 @@ Contains the highly curated Genome-Scale Metabolic Models (GSMMs) in standard fo
 * Data is compressed in .zip format due to size limits.
 
 ### `Code/`
-Contains an example of the Python scripts utilized for the curation pipeline and simulation:
+Contains an example of the Python scripts utilized for the curation pipeline and simulation and additional data for the analysis (e.g., missing_reactions files, apple medium etc.):
 * **Curation Pipeline:** Scripts demonstrating the multi-stage curation workflow (diagnostic growth failure checks, iterative gap-filling, stoichiometric consistency).
 * **Simulations & Analysis:** Code used to simulate community dynamics via dFBA.
 
