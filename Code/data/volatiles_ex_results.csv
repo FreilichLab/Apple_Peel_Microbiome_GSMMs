@@ -1,0 +1,31 @@
+Replicates,Isolates,GSMM,Day3,Day4,Day6,Day7
+1,SY,"GSMM_5_gapfilled_final, GSMM_5",20,27,37,42
+2,SY,"GSMM_5_gapfilled_final, GSMM_5",20,27,42,48
+3,SY,"GSMM_5_gapfilled_final, GSMM_5",20,27,42,47
+1,AP,"GSMM_11_gapfilled_final, GSMM_11",10,18,37,46
+2,AP,"GSMM_11_gapfilled_final, GSMM_11",10,18,36,45
+3,AP,"GSMM_11_gapfilled_final, GSMM_11",10,19,37,46
+1,CT,"GSMM_19_gapfillied, GSMM_19",12,20,36,42
+2,CT,"GSMM_19_gapfillied, GSMM_19",12,17,28,28
+3,CT,"GSMM_19_gapfillied, GSMM_19",12,17,26,28
+1,BN,"GSMM_15_gapfilled_final, GSMM_15",6,9,17,18
+2,BN,"GSMM_15_gapfilled_final, GSMM_15",0,0,13,14
+3,BN,"GSMM_15_gapfilled_final, GSMM_15",0,0,16,18
+1,MR,"MR_gapfillied, GSMM_MR",16,20,28,32
+2,MR,"MR_gapfillied, GSMM_MR",16,20,28,31
+3,MR,"MR_gapfillied, GSMM_MR",16,20,28,33
+1,KC,"GSMM_8_gapfillied, GSMM_8",5,11,30,38
+2,KC,"GSMM_8_gapfillied, GSMM_8",6,14,31,41
+3,KC,"GSMM_8_gapfillied, GSMM_8",5,11,30,38
+1,PE,"GSMM_23_gapfillied, GSMM_23",6,16,28,36
+2,PE,"GSMM_23_gapfillied, GSMM_23",6,15,33,41
+3,PE,"GSMM_23_gapfillied, GSMM_23",6,10,32,41
+1,PJ,"GSMM_9_gapfillied, GSMM_9",9,12,36,44
+2,PJ,"GSMM_9_gapfillied, GSMM_9",5,10,28,35
+3,PJ,"GSMM_9_gapfillied, GSMM_9",0,2,20,28
+1,PV,"GSMM_20_gapfillied, GSMM_20",7,14,23,26
+2,PV,"GSMM_20_gapfillied, GSMM_20",8,15,23,28
+3,PV,"GSMM_20_gapfillied, GSMM_20",8,15,24,29
+1,CONTROL,,20,27,41,48
+2,CONTROL,,20,27,42,50
+3,CONTROL,,20,27,42,50
